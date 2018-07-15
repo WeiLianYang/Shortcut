@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N_MR1) {
             try {
                 boolean isShortcutCreated = PreferencesUtil.readBoolean("isShortcutCreated", false);
-                if (!isShortcutCreated) {// 如果有创建过就不再重复创建，后期看是否考虑从接口拉取
+                if (!isShortcutCreated) {// 如果有创建过就不再重复创建，可以考虑从接口拉取
                     ShortcutManager mShortcutManager = getSystemService(ShortcutManager.class);
                     List<ShortcutInfo> infoList = new ArrayList<>();
 
