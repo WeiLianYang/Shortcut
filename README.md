@@ -1,5 +1,6 @@
 # Shortcut
 [我的博客地址](https://blog.csdn.net/java_android_man/article/details/81047888)
+<br>
 ###GIF效果图：
 <br><br>
 ![image](https://github.com/LuckyYangChen/Shortcut/blob/master/1.gif)
