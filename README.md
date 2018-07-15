@@ -1,4 +1,10 @@
 # Shortcut
+[我的博客地址](https://blog.csdn.net/java_android_man/article/details/81047888)
+###GIF效果图：
+<br><br>
+![image](https://github.com/LuckyYangChen/Shortcut/blob/master/1.gif)
+![image](https://github.com/LuckyYangChen/Shortcut/blob/master/2.gif)
+
 ## 一、背景介绍
 
   3D Touch是一种立体触控技术，被苹果称为新一代多点触控技术，是在Apple Watch上采用的Force Touch，屏幕可感应不同的感压力度触控。3D Touch，苹果iPhone 6s的新功能，看起来类似 PC 上的右键。有Peek Pop 两种新手势。
@@ -107,7 +113,3 @@ public void createShortcut() {
     }
 
 ```
-###GIF效果图：
-<br><br>
-![image](https://github.com/LuckyYangChen/Shortcut/blob/master/1.gif)
-![image](https://github.com/LuckyYangChen/Shortcut/blob/master/2.gif)
