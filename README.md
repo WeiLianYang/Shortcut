@@ -108,4 +108,6 @@ public void createShortcut() {
 
 ```
 ###GIF效果图：
-
+<br><br>
+![image](https://github.com/LuckyYangChen/Shortcut/blob/master/1.gif)
+![image](https://github.com/LuckyYangChen/Shortcut/blob/master/2.gif)
